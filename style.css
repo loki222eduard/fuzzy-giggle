@@ -1,3 +1,9 @@
 body{
-	background-color: pink;
+	background-color: chartreuse;
+}
+.box{
+	background-color: coral;
+	width: 200px;
+	height: 200px;
+	box-shadow: crimson 0 0 20px;
 }
